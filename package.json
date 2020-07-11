@@ -1,0 +1,25 @@
+{
+  "name": "git-js-node-primer",
+  "version": "1.0.0",
+  "description": "JavaScript and Version Control Primer in NodeJS Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somanwokoye/git-js-node-primer.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "NodeJS",
+    "Book-Examples"
+  ],
+  "author": "Sochukwuma Nwokoye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somanwokoye/git-js-node-primer/issues"
+  },
+  "homepage": "https://github.com/somanwokoye/git-js-node-primer#readme"
+}
